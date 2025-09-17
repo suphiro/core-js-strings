@@ -568,7 +568,6 @@ function getCardId(value) {
   ];
 
   return cards.indexOf(value);
-  
 }
 
 module.exports = {
